@@ -122,13 +122,11 @@ Don't forget to give the project a star! Thanks again!
 
 ## Collabarators 
 
-Roy Dadon - [@rroyd](https://github.com/rroyd) 
+Daniel Agranovsky - [@DanielA2212]((https://github.com/DanielA2212)) 
 
-David Saadia - [@David-Saadia](https://github.com/David-Saadia)
+Nicole Melamed - [@NicoleMelamed]((https://github.com/NicoleMelamed))
 
-Sahar Aviad - [@sahar714](https://github.com/sahar714)
-
-Gil Yona - [@gilyona](https://github.com/gilyona)
+Sivan Erenshtein - [@sivankrin]((https://github.com/sivankrin))
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
