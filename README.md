@@ -138,7 +138,7 @@ Sivan Erenshtein - [@sivankrin](https://github.com/sivankrin)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-[![Watch the video](https://youtu.be/aBvOdM48uCw)
+[![Watch the video](https://github.com/DanielA2212/TitanicML/blob/main/thumbnail.png)](https://youtu.be/aBvOdM48uCw)
 
 [contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
 [contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
