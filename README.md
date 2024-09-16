@@ -47,14 +47,22 @@
 
 ## About The Project
 
-The project is about testing and working with different learning algorithms and performing a 5 fold validation to choose the best permutation for each learning algorithm.
+This project showcases the usage of machine learning techniques to predict survival outcomes on the Titanic dataset.
+The combination of exploratory data analysis, feature engineering, and model selection through cross-validation ensures an ideal performance evaluation.
+
+The project implements a supervised learning flow on the Titanic dataset, which is divided into training and testing sets. The goal is to classify survival outcomes using machine learning techniques.
+
 
 <img src = "./Images/screenshot_1.png">
 <img src = "./Images/screenshot_2.png">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Tools and Techniques
 
+- Programming Languages: Python
+- Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+- Techniques: Supervised learning, feature engineering, cross-validation, grid search, etc'
 
 ### Built With Python 
 
