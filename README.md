@@ -47,7 +47,10 @@
 
 ## About The Project
 
-The project is about testing and working with different learning algorithms and performs a 5 fold validation which will choose the best permutation for each learning algorithm.
+The project is about testing and working with different learning algorithms and performing a 5 fold validation to choose the best permutation for each learning algorithm.
+
+<img src = "./images/Screenshot_1.png">
+<img src = "./images/Screenshot_2.png">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
