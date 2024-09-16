@@ -122,11 +122,11 @@ Don't forget to give the project a star! Thanks again!
 
 ## Collabarators 
 
-Daniel Agranovsky - [@DanielA2212]((https://github.com/DanielA2212)) 
+Daniel Agranovsky - [@DanielA2212](https://github.com/DanielA2212) 
 
-Nicole Melamed - [@NicoleMelamed]((https://github.com/NicoleMelamed))
+Nicole Melamed - [@NicoleMelamed](https://github.com/NicoleMelamed)
 
-Sivan Erenshtein - [@sivankrin]((https://github.com/sivankrin))
+Sivan Erenshtein - [@sivankrin](https://github.com/sivankrin)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
