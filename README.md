@@ -64,7 +64,7 @@ The project implements a supervised learning flow on the Titanic dataset, which 
 - Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 - Techniques: Supervised learning, feature engineering, cross-validation, grid search, etc'
 
-
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
  
 
